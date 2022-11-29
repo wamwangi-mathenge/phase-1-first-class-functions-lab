@@ -32,4 +32,5 @@ const selectDifferentDrivers = (drivers, selectDrivers) => {
 }
 
 // const selectDifferentDrivers = {returnFirstTwoDrivers, returnLastTwoDrivers};
-const selectingDrivers = {returnFirstTwoDrivers, returnLastTwoDrivers};
+// const selectingDrivers = {returnFirstTwoDrivers, returnLastTwoDrivers};
+const selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers]
